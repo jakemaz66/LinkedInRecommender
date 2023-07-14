@@ -67,4 +67,6 @@ To use, personal API keys must be supplied in the .env file
 
 This project demonstrates the integration of advanced AI models, APIs, and web development techniques to create a web-based application for extracting and presenting information from LinkedIn profiles. By leveraging the power of the GPT 3.5 model, Proxycurl API, and SerpAPI, the application provides valuable insights into a person's professional profile.
 
+This project draws inspiration from Eden Marco's ice breaker repository and course 'LangChain- Develop LLM powered applications with LangChain', which can be found here: https://github.com/emarco177/ice_breaker
+
 Feel free to customize and enhance the project to suit your specific needs. 
